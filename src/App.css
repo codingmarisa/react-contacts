@@ -1,3 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Oxygen&family=Rufina&display=swap');
+
+body, html {
+  font-family: 'Oxygen', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Rufina', serif;
+}
+
 .App {
   text-align: center;
 }
